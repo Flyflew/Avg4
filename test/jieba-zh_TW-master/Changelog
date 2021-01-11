@@ -1,0 +1,4 @@
+2016-07-18: fork jieba(0.38)
+1. 替換zh-tw版本詞庫(dict.txt)
+2. 替換zh-tw版本HMM機率表
+
